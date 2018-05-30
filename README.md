@@ -1,2 +1,8 @@
-# BeHappy
-Random Dog Image App using https://dog.ceo/ and https://flutter.io/
+# be_happy
+
+A new Flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
